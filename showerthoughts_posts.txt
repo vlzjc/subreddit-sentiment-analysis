@@ -1,0 +1,926 @@
+{
+    "data": [
+        {
+            "author": {
+                "icon": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png",
+                "id": "t2_17oy1qcm",
+                "name": "Yorkshire45",
+                "nsfw": false,
+                "url": "https://www.reddit.com/user/Yorkshire45"
+            },
+            "comments": 2057,
+            "content": {
+                "image": "",
+                "link": "",
+                "text": "Damn... this got big...",
+                "video": ""
+            },
+            "contentLanguage": "en",
+            "creationDate": "2019-02-09T01:43:40.185000+0000",
+            "id": "t3_aonp75",
+            "nsfw": false,
+            "score": 219177,
+            "shares": 0,
+            "subreddit": {
+                "banner": "",
+                "icon": "https://styles.redditmedia.com/t5_2szyo/styles/communityIcon_vuzhk1k3hd1c1.png?width=256&height=256&frame=1&auto=webp&crop=256:256,smart&s=26e2a38eaddc51918007fce62b04e10ec701dab9",
+                "id": "t5_2szyo",
+                "name": "Showerthoughts",
+                "nsfw": false,
+                "subscribers": 33980703,
+                "title": "Showerthoughts"
+            },
+            "title": "Whoever created the tradition of not seeing the bride in the wedding dress beforehand saved countless husbands everywhere from hours of dress shopping and will forever be a hero to all men.",
+            "upvoteRatio": 0.9615659763207783,
+            "url": "https://www.reddit.com/r/Showerthoughts/comments/aonp75/whoever_created_the_tradition_of_not_seeing_the/"
+        },
+        {
+            "author": {
+                "icon": "",
+                "id": "t2_0",
+                "name": "[deleted]",
+                "nsfw": false,
+                "url": "https://www.reddit.com/user/[deleted]"
+            },
+            "comments": 1119,
+            "content": {
+                "image": "",
+                "link": "",
+                "text": "",
+                "video": ""
+            },
+            "contentLanguage": "en",
+            "creationDate": "2020-01-04T21:50:50.007000+0000",
+            "id": "t3_ek33p5",
+            "nsfw": false,
+            "score": 182164,
+            "shares": 0,
+            "subreddit": {
+                "banner": "",
+                "icon": "https://styles.redditmedia.com/t5_2szyo/styles/communityIcon_vuzhk1k3hd1c1.png?width=256&height=256&frame=1&auto=webp&crop=256:256,smart&s=26e2a38eaddc51918007fce62b04e10ec701dab9",
+                "id": "t5_2szyo",
+                "name": "Showerthoughts",
+                "nsfw": false,
+                "subscribers": 33980703,
+                "title": "Showerthoughts"
+            },
+            "title": "We laugh at dogs getting excited when they hear a bark on TV, but if TV was a nonstop stream of unintelligible noises and then someone suddenly spoke to you in your language, you'd be pretty fucking startled too.",
+            "upvoteRatio": 0.9585633343870826,
+            "url": "https://www.reddit.com/r/Showerthoughts/comments/ek33p5/we_laugh_at_dogs_getting_excited_when_they_hear_a/"
+        },
+        {
+            "author": {
+                "icon": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png",
+                "id": "t2_7v76e",
+                "name": "zjb55446",
+                "nsfw": false,
+                "url": "https://www.reddit.com/user/zjb55446"
+            },
+            "comments": 2829,
+            "content": {
+                "image": "",
+                "link": "",
+                "text": "",
+                "video": ""
+            },
+            "contentLanguage": "en",
+            "creationDate": "2019-03-02T02:55:06.717000+0000",
+            "id": "t3_awd10u",
+            "nsfw": false,
+            "score": 173466,
+            "shares": 1,
+            "subreddit": {
+                "banner": "",
+                "icon": "https://styles.redditmedia.com/t5_2szyo/styles/communityIcon_vuzhk1k3hd1c1.png?width=256&height=256&frame=1&auto=webp&crop=256:256,smart&s=26e2a38eaddc51918007fce62b04e10ec701dab9",
+                "id": "t5_2szyo",
+                "name": "Showerthoughts",
+                "nsfw": false,
+                "subscribers": 33980703,
+                "title": "Showerthoughts"
+            },
+            "title": "When you're a kid, you don't realize you're also watching your mom and dad grow up.",
+            "upvoteRatio": 0.9708197400445342,
+            "url": "https://www.reddit.com/r/Showerthoughts/comments/awd10u/when_youre_a_kid_you_dont_realize_youre_also/"
+        },
+        {
+            "author": {
+                "icon": "https://styles.redditmedia.com/t5_h77yp/styles/profileIcon_snoo86041f04-86ff-4bed-b7ab-e3e65ad85ce1-headshot.png?width=256&height=256&frame=1&auto=webp&crop=256:256,smart&s=e673013c418e44646dabf7c423e02ed4b80b7877",
+                "id": "t2_12zy19zo",
+                "name": "bypirates_myman",
+                "nsfw": false,
+                "url": "https://www.reddit.com/user/bypirates_myman"
+            },
+            "comments": 3577,
+            "content": {
+                "image": "",
+                "link": "",
+                "text": "",
+                "video": ""
+            },
+            "contentLanguage": "en",
+            "creationDate": "2019-08-10T18:53:11.196000+0000",
+            "id": "t3_com04g",
+            "nsfw": false,
+            "score": 160086,
+            "shares": 0,
+            "subreddit": {
+                "banner": "",
+                "icon": "https://styles.redditmedia.com/t5_2szyo/styles/communityIcon_vuzhk1k3hd1c1.png?width=256&height=256&frame=1&auto=webp&crop=256:256,smart&s=26e2a38eaddc51918007fce62b04e10ec701dab9",
+                "id": "t5_2szyo",
+                "name": "Showerthoughts",
+                "nsfw": false,
+                "subscribers": 33980703,
+                "title": "Showerthoughts"
+            },
+            "title": "Dads probably bond with dogs so much because, in our society, men don\u2019t get shown a lot of affection but dogs give tons of affection regardless",
+            "upvoteRatio": 0.9230914588057445,
+            "url": "https://www.reddit.com/r/Showerthoughts/comments/com04g/dads_probably_bond_with_dogs_so_much_because_in/"
+        },
+        {
+            "author": {
+                "icon": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+                "id": "t2_4jv9uev0",
+                "name": "RodzRodzRodz",
+                "nsfw": false,
+                "url": "https://www.reddit.com/user/RodzRodzRodz"
+            },
+            "comments": 2338,
+            "content": {
+                "image": "",
+                "link": "",
+                "text": "",
+                "video": ""
+            },
+            "contentLanguage": "en",
+            "creationDate": "2020-04-19T18:47:40.519000+0000",
+            "id": "t3_g4d0ij",
+            "nsfw": false,
+            "score": 152603,
+            "shares": 0,
+            "subreddit": {
+                "banner": "",
+                "icon": "https://styles.redditmedia.com/t5_2szyo/styles/communityIcon_vuzhk1k3hd1c1.png?width=256&height=256&frame=1&auto=webp&crop=256:256,smart&s=26e2a38eaddc51918007fce62b04e10ec701dab9",
+                "id": "t5_2szyo",
+                "name": "Showerthoughts",
+                "nsfw": false,
+                "subscribers": 33980703,
+                "title": "Showerthoughts"
+            },
+            "title": "Being able to tolerate the sound of your own voice in a video is probably the highest form of self acceptance.",
+            "upvoteRatio": 0.9525361846394576,
+            "url": "https://www.reddit.com/r/Showerthoughts/comments/g4d0ij/being_able_to_tolerate_the_sound_of_your_own/"
+        },
+        {
+            "author": {
+                "icon": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_6.png",
+                "id": "t2_89n5i",
+                "name": "belly_bell",
+                "nsfw": false,
+                "url": "https://www.reddit.com/user/belly_bell"
+            },
+            "comments": 5882,
+            "content": {
+                "image": "",
+                "link": "",
+                "text": "",
+                "video": ""
+            },
+            "contentLanguage": "en",
+            "creationDate": "2019-01-17T23:50:37.719000+0000",
+            "id": "t3_ah48kq",
+            "nsfw": false,
+            "score": 144370,
+            "shares": 0,
+            "subreddit": {
+                "banner": "",
+                "icon": "https://styles.redditmedia.com/t5_2szyo/styles/communityIcon_vuzhk1k3hd1c1.png?width=256&height=256&frame=1&auto=webp&crop=256:256,smart&s=26e2a38eaddc51918007fce62b04e10ec701dab9",
+                "id": "t5_2szyo",
+                "name": "Showerthoughts",
+                "nsfw": false,
+                "subscribers": 33980703,
+                "title": "Showerthoughts"
+            },
+            "title": "Girls don't compliment guys because they're likely to take it non-platonically, guys take it non-platonically because it happens so infrequently they don't know how to handle it",
+            "upvoteRatio": 0.9166191131549797,
+            "url": "https://www.reddit.com/r/Showerthoughts/comments/ah48kq/girls_dont_compliment_guys_because_theyre_likely/"
+        },
+        {
+            "author": {
+                "icon": "",
+                "id": "t2_0",
+                "name": "[deleted]",
+                "nsfw": false,
+                "url": "https://www.reddit.com/user/[deleted]"
+            },
+            "comments": 1565,
+            "content": {
+                "image": "",
+                "link": "",
+                "text": "And the entry level employees would be up on the 80th floor.",
+                "video": ""
+            },
+            "contentLanguage": "en",
+            "creationDate": "2020-01-13T00:27:54.878000+0000",
+            "id": "t3_enw8rz",
+            "nsfw": false,
+            "score": 143103,
+            "shares": 0,
+            "subreddit": {
+                "banner": "",
+                "icon": "https://styles.redditmedia.com/t5_2szyo/styles/communityIcon_vuzhk1k3hd1c1.png?width=256&height=256&frame=1&auto=webp&crop=256:256,smart&s=26e2a38eaddc51918007fce62b04e10ec701dab9",
+                "id": "t5_2szyo",
+                "name": "Showerthoughts",
+                "nsfw": false,
+                "subscribers": 33980703,
+                "title": "Showerthoughts"
+            },
+            "title": "If elevators hadn't been invented, all the CEOs and important people would have their offices on the first floor as a sign of status.",
+            "upvoteRatio": 0.9437385864708396,
+            "url": "https://www.reddit.com/r/Showerthoughts/comments/enw8rz/if_elevators_hadnt_been_invented_all_the_ceos_and/"
+        },
+        {
+            "author": {
+                "icon": "https://styles.redditmedia.com/t5_b7s5v/styles/profileIcon_snoofb5f7343-0cf7-4615-8b7b-832397346d23-headshot-f.png?width=256&height=256&frame=1&auto=webp&crop=256:256,smart&s=14e521d4803d64dd593d43c8c22e278da4d967cf",
+                "id": "t2_hn24y",
+                "name": "Fourohfourscore",
+                "nsfw": false,
+                "url": "https://www.reddit.com/user/Fourohfourscore"
+            },
+            "comments": 2568,
+            "content": {
+                "image": "",
+                "link": "",
+                "text": "Edit: Since people keep asking. Spoilers for a 30+ year old movie ahead: Anakin brought balance to the force in two ways (depending on interpretation, pick one or the other). He killed off the Jedi until there were only 2 Jedi and 2 Sith, so balanced in a way. Or, in a different interpretation, this action distabilized the Force since the Sith had more control over the universe. The action that brought balance to the Force was when he, as Vader, killed Palpatine. As u/Sarahneth mentioned, he also brought balance to his pod racer as well, if we're being very literal.",
+                "video": ""
+            },
+            "contentLanguage": "en",
+            "creationDate": "2017-11-15T04:15:56.562000+0000",
+            "id": "t3_7d1kop",
+            "nsfw": false,
+            "score": 139493,
+            "shares": 0,
+            "subreddit": {
+                "banner": "",
+                "icon": "https://styles.redditmedia.com/t5_2szyo/styles/communityIcon_vuzhk1k3hd1c1.png?width=256&height=256&frame=1&auto=webp&crop=256:256,smart&s=26e2a38eaddc51918007fce62b04e10ec701dab9",
+                "id": "t5_2szyo",
+                "name": "Showerthoughts",
+                "nsfw": false,
+                "subscribers": 33980703,
+                "title": "Showerthoughts"
+            },
+            "title": "If EA suffers big enough losses from the backlash of Battlefront 2, and it all started because some guy couldn't unlock Vader, this will be the second time Anakin brought balance to something.",
+            "upvoteRatio": 0.90331998665332,
+            "url": "https://www.reddit.com/r/Showerthoughts/comments/7d1kop/if_ea_suffers_big_enough_losses_from_the_backlash/"
+        },
+        {
+            "author": {
+                "icon": "https://styles.redditmedia.com/t5_1jv3l3/styles/profileIcon_jvpk74oglc791.jpg?width=256&height=256&frame=1&auto=webp&crop=256:256,smart&s=430286504d6e70bb0f13058cda18fec10822056d",
+                "id": "t2_oxo4i",
+                "name": "XboxUK",
+                "nsfw": false,
+                "url": "https://www.reddit.com/user/XboxUK"
+            },
+            "comments": 0,
+            "content": {
+                "image": "",
+                "link": "",
+                "text": "",
+                "video": ""
+            },
+            "contentLanguage": "",
+            "creationDate": "2025-01-30T10:55:58.599000+0000",
+            "id": "t3_1idkg0h",
+            "nsfw": false,
+            "score": 0,
+            "shares": 0,
+            "subreddit": {
+                "banner": "",
+                "icon": "https://styles.redditmedia.com/t5_2szyo/styles/communityIcon_vuzhk1k3hd1c1.png?width=256&height=256&frame=1&auto=webp&crop=256:256,smart&s=26e2a38eaddc51918007fce62b04e10ec701dab9",
+                "id": "t5_2szyo",
+                "name": "Showerthoughts",
+                "nsfw": false,
+                "subscribers": 33980703,
+                "title": "Showerthoughts"
+            },
+            "title": "Welcome to the Living Lands, a mysterious island filled with adventure and danger. You are the envoy of Aedyr, a distant land, sent to investigate rumors of a spreading plague. Can you save this unknown frontier and your soul from the forces threatening to tear them asunder?",
+            "upvoteRatio": 0.1283138918345705,
+            "url": "https://www.reddit.com/user/XboxUK/comments/1idkg0h/welcome_to_the_living_lands_a_mysterious_island/"
+        },
+        {
+            "author": {
+                "icon": "",
+                "id": "t2_0",
+                "name": "[deleted]",
+                "nsfw": false,
+                "url": "https://www.reddit.com/user/[deleted]"
+            },
+            "comments": 5350,
+            "content": {
+                "image": "",
+                "link": "",
+                "text": "",
+                "video": ""
+            },
+            "contentLanguage": "en",
+            "creationDate": "2018-12-07T13:48:11.471000+0000",
+            "id": "t3_a400tw",
+            "nsfw": false,
+            "score": 139446,
+            "shares": 0,
+            "subreddit": {
+                "banner": "",
+                "icon": "https://styles.redditmedia.com/t5_2szyo/styles/communityIcon_vuzhk1k3hd1c1.png?width=256&height=256&frame=1&auto=webp&crop=256:256,smart&s=26e2a38eaddc51918007fce62b04e10ec701dab9",
+                "id": "t5_2szyo",
+                "name": "Showerthoughts",
+                "nsfw": false,
+                "subscribers": 33980703,
+                "title": "Showerthoughts"
+            },
+            "title": "Being able to do well in high school without having to put in much effort is actually a big disadvantage later in life.",
+            "upvoteRatio": 0.9173925667828107,
+            "url": "https://www.reddit.com/r/Showerthoughts/comments/a400tw/being_able_to_do_well_in_high_school_without/"
+        },
+        {
+            "author": {
+                "icon": "https://styles.redditmedia.com/t5_cptnd/styles/profileIcon_snoo743dadf2-da55-4064-bf62-ca0360d890a8-headshot.png?width=256&height=256&frame=1&auto=webp&crop=256:256,smart&s=b4939d8c950aa510146564a9ba52621a060846be",
+                "id": "t2_141nah",
+                "name": "Raghnarok",
+                "nsfw": true,
+                "url": "https://www.reddit.com/user/Raghnarok"
+            },
+            "comments": 2335,
+            "content": {
+                "image": "",
+                "link": "",
+                "text": "",
+                "video": ""
+            },
+            "contentLanguage": "en",
+            "creationDate": "2019-11-23T21:42:11.895000+0000",
+            "id": "t3_e0omqn",
+            "nsfw": false,
+            "score": 138496,
+            "shares": 0,
+            "subreddit": {
+                "banner": "",
+                "icon": "https://styles.redditmedia.com/t5_2szyo/styles/communityIcon_vuzhk1k3hd1c1.png?width=256&height=256&frame=1&auto=webp&crop=256:256,smart&s=26e2a38eaddc51918007fce62b04e10ec701dab9",
+                "id": "t5_2szyo",
+                "name": "Showerthoughts",
+                "nsfw": false,
+                "subscribers": 33980703,
+                "title": "Showerthoughts"
+            },
+            "title": "During a nuclear explosion, there is a certain distance of the radius where all the frozen supermarket pizzas are cooked to perfection.",
+            "upvoteRatio": 0.88993664894779,
+            "url": "https://www.reddit.com/r/Showerthoughts/comments/e0omqn/during_a_nuclear_explosion_there_is_a_certain/"
+        },
+        {
+            "author": {
+                "icon": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_7.png",
+                "id": "t2_m80tr",
+                "name": "Canadaba11",
+                "nsfw": false,
+                "url": "https://www.reddit.com/user/Canadaba11"
+            },
+            "comments": 2140,
+            "content": {
+                "image": "",
+                "link": "",
+                "text": "",
+                "video": ""
+            },
+            "contentLanguage": "en",
+            "creationDate": "2017-12-27T21:17:42.604000+0000",
+            "id": "t3_7mhv6a",
+            "nsfw": false,
+            "score": 137934,
+            "shares": 0,
+            "subreddit": {
+                "banner": "",
+                "icon": "https://styles.redditmedia.com/t5_2szyo/styles/communityIcon_vuzhk1k3hd1c1.png?width=256&height=256&frame=1&auto=webp&crop=256:256,smart&s=26e2a38eaddc51918007fce62b04e10ec701dab9",
+                "id": "t5_2szyo",
+                "name": "Showerthoughts",
+                "nsfw": false,
+                "subscribers": 33980703,
+                "title": "Showerthoughts"
+            },
+            "title": "Anxiety is like when video game combat music is playing but you can't find any enemies.",
+            "upvoteRatio": 0.9139829628090588,
+            "url": "https://www.reddit.com/r/Showerthoughts/comments/7mhv6a/anxiety_is_like_when_video_game_combat_music_is/"
+        },
+        {
+            "author": {
+                "icon": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png",
+                "id": "t2_ideex",
+                "name": "pyro925",
+                "nsfw": false,
+                "url": "https://www.reddit.com/user/pyro925"
+            },
+            "comments": 1433,
+            "content": {
+                "image": "",
+                "link": "",
+                "text": "[Update](https://www.reddit.com/user/pyro925/comments/dyjoes/post_update/?utm_source=share&utm_medium=web2x)",
+                "video": ""
+            },
+            "contentLanguage": "en",
+            "creationDate": "2019-11-18T10:51:26.901000+0000",
+            "id": "t3_dy1no2",
+            "nsfw": false,
+            "score": 137706,
+            "shares": 0,
+            "subreddit": {
+                "banner": "",
+                "icon": "https://styles.redditmedia.com/t5_2szyo/styles/communityIcon_vuzhk1k3hd1c1.png?width=256&height=256&frame=1&auto=webp&crop=256:256,smart&s=26e2a38eaddc51918007fce62b04e10ec701dab9",
+                "id": "t5_2szyo",
+                "name": "Showerthoughts",
+                "nsfw": false,
+                "subscribers": 33980703,
+                "title": "Showerthoughts"
+            },
+            "title": "Pavlov probably thought about feeding his dogs every time someone rang a bell.",
+            "upvoteRatio": 0.9394162939739038,
+            "url": "https://www.reddit.com/r/Showerthoughts/comments/dy1no2/pavlov_probably_thought_about_feeding_his_dogs/"
+        },
+        {
+            "author": {
+                "icon": "https://styles.redditmedia.com/t5_evwb3/styles/profileIcon_snoo6e371b2a-170d-499d-ab7d-c3af76f875d9-headshot-f.png?width=256&height=256&frame=1&auto=webp&crop=256:256,smart&s=af98e6b6680bd2d1df7599bc511db2fdc929e748",
+                "id": "t2_yshuh",
+                "name": "pluey200",
+                "nsfw": true,
+                "url": "https://www.reddit.com/user/pluey200"
+            },
+            "comments": 1690,
+            "content": {
+                "image": "",
+                "link": "",
+                "text": "",
+                "video": ""
+            },
+            "contentLanguage": "en",
+            "creationDate": "2019-01-06T03:16:32.281000+0000",
+            "id": "t3_ad1ppe",
+            "nsfw": false,
+            "score": 137302,
+            "shares": 0,
+            "subreddit": {
+                "banner": "",
+                "icon": "https://styles.redditmedia.com/t5_2szyo/styles/communityIcon_vuzhk1k3hd1c1.png?width=256&height=256&frame=1&auto=webp&crop=256:256,smart&s=26e2a38eaddc51918007fce62b04e10ec701dab9",
+                "id": "t5_2szyo",
+                "name": "Showerthoughts",
+                "nsfw": false,
+                "subscribers": 33980703,
+                "title": "Showerthoughts"
+            },
+            "title": "11 babies have been born in Antarctica, and none of them died as infants, meaning Antarctica has the lowest infant mortality rate at 0%",
+            "upvoteRatio": 0.9481493173388051,
+            "url": "https://www.reddit.com/r/Showerthoughts/comments/ad1ppe/11_babies_have_been_born_in_antarctica_and_none/"
+        },
+        {
+            "author": {
+                "icon": "https://styles.redditmedia.com/t5_ng3sh/styles/profileIcon_snooc1a9f5ca-d162-4248-a5e2-aece394c835a-headshot-f.png?width=256&height=256&frame=1&auto=webp&crop=256:256,smart&s=cd0d119e11d175ac35f5b643931730b98badb0eb",
+                "id": "t2_20s1s277",
+                "name": "Cryptic_Cosmos",
+                "nsfw": false,
+                "url": "https://www.reddit.com/user/Cryptic_Cosmos"
+            },
+            "comments": 1075,
+            "content": {
+                "image": "",
+                "link": "",
+                "text": "",
+                "video": ""
+            },
+            "contentLanguage": "en",
+            "creationDate": "2020-09-05T12:21:52.242000+0000",
+            "id": "t3_in07hy",
+            "nsfw": false,
+            "score": 129669,
+            "shares": 0,
+            "subreddit": {
+                "banner": "",
+                "icon": "https://styles.redditmedia.com/t5_2szyo/styles/communityIcon_vuzhk1k3hd1c1.png?width=256&height=256&frame=1&auto=webp&crop=256:256,smart&s=26e2a38eaddc51918007fce62b04e10ec701dab9",
+                "id": "t5_2szyo",
+                "name": "Showerthoughts",
+                "nsfw": false,
+                "subscribers": 33980703,
+                "title": "Showerthoughts"
+            },
+            "title": "We do not check the refrigerator multiple times to find new food, we check to see if our standards have dropped enough to eat what was available.",
+            "upvoteRatio": 0.882365517831181,
+            "url": "https://www.reddit.com/r/Showerthoughts/comments/in07hy/we_do_not_check_the_refrigerator_multiple_times/"
+        },
+        {
+            "author": {
+                "icon": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+                "id": "t2_7zwz0",
+                "name": "Stormfly",
+                "nsfw": false,
+                "url": "https://www.reddit.com/user/Stormfly"
+            },
+            "comments": 2752,
+            "content": {
+                "image": "",
+                "link": "",
+                "text": "",
+                "video": ""
+            },
+            "contentLanguage": "en",
+            "creationDate": "2018-09-19T14:38:05.903000+0000",
+            "id": "t3_9h5p8v",
+            "nsfw": false,
+            "score": 127318,
+            "shares": 0,
+            "subreddit": {
+                "banner": "",
+                "icon": "https://styles.redditmedia.com/t5_2szyo/styles/communityIcon_vuzhk1k3hd1c1.png?width=256&height=256&frame=1&auto=webp&crop=256:256,smart&s=26e2a38eaddc51918007fce62b04e10ec701dab9",
+                "id": "t5_2szyo",
+                "name": "Showerthoughts",
+                "nsfw": false,
+                "subscribers": 33980703,
+                "title": "Showerthoughts"
+            },
+            "title": "The sentence \"Don't objectify women\" has \"women\" as the object of the sentence.",
+            "upvoteRatio": 0.8816883221693165,
+            "url": "https://www.reddit.com/r/Showerthoughts/comments/9h5p8v/the_sentence_dont_objectify_women_has_women_as/"
+        },
+        {
+            "author": {
+                "icon": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_2.png",
+                "id": "t2_155jyi",
+                "name": "LifeInKernelSpace",
+                "nsfw": false,
+                "url": "https://www.reddit.com/user/LifeInKernelSpace"
+            },
+            "comments": 2369,
+            "content": {
+                "image": "",
+                "link": "",
+                "text": "And you know what? They did it.",
+                "video": ""
+            },
+            "contentLanguage": "en",
+            "creationDate": "2017-12-03T14:38:24.596000+0000",
+            "id": "t3_7h9y6v",
+            "nsfw": false,
+            "score": 126551,
+            "shares": 0,
+            "subreddit": {
+                "banner": "",
+                "icon": "https://styles.redditmedia.com/t5_2szyo/styles/communityIcon_vuzhk1k3hd1c1.png?width=256&height=256&frame=1&auto=webp&crop=256:256,smart&s=26e2a38eaddc51918007fce62b04e10ec701dab9",
+                "id": "t5_2szyo",
+                "name": "Showerthoughts",
+                "nsfw": false,
+                "subscribers": 33980703,
+                "title": "Showerthoughts"
+            },
+            "title": "Somebody at google was just like \"yea, just have someone drive down every road on fucking earth\".",
+            "upvoteRatio": 0.9282707387536112,
+            "url": "https://www.reddit.com/r/Showerthoughts/comments/7h9y6v/somebody_at_google_was_just_like_yea_just_have/"
+        },
+        {
+            "author": {
+                "icon": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_5.png",
+                "id": "t2_d7y5nlx",
+                "name": "SightlessSenshi",
+                "nsfw": true,
+                "url": "https://www.reddit.com/user/SightlessSenshi"
+            },
+            "comments": 3940,
+            "content": {
+                "image": "",
+                "link": "",
+                "text": "",
+                "video": ""
+            },
+            "contentLanguage": "en",
+            "creationDate": "2018-01-04T22:45:05.499000+0000",
+            "id": "t3_7o6kn8",
+            "nsfw": false,
+            "score": 125483,
+            "shares": 0,
+            "subreddit": {
+                "banner": "",
+                "icon": "https://styles.redditmedia.com/t5_2szyo/styles/communityIcon_vuzhk1k3hd1c1.png?width=256&height=256&frame=1&auto=webp&crop=256:256,smart&s=26e2a38eaddc51918007fce62b04e10ec701dab9",
+                "id": "t5_2szyo",
+                "name": "Showerthoughts",
+                "nsfw": false,
+                "subscribers": 33980703,
+                "title": "Showerthoughts"
+            },
+            "title": "College students don't want to go to graduation ceremonies, but they go to please their relatives, while relatives don't want to go but go to support the students; we should all just be honest and skip that ceremony and go out for pizza.",
+            "upvoteRatio": 0.8811703464369054,
+            "url": "https://www.reddit.com/r/Showerthoughts/comments/7o6kn8/college_students_dont_want_to_go_to_graduation/"
+        },
+        {
+            "author": {
+                "icon": "",
+                "id": "t2_149wrfdq",
+                "name": "LordMetrognome",
+                "nsfw": false,
+                "url": "https://www.reddit.com/user/LordMetrognome"
+            },
+            "comments": 2510,
+            "content": {
+                "image": "",
+                "link": "",
+                "text": "",
+                "video": ""
+            },
+            "contentLanguage": "en",
+            "creationDate": "2019-06-15T05:21:32.883000+0000",
+            "id": "t3_c0tucx",
+            "nsfw": false,
+            "score": 124615,
+            "shares": 0,
+            "subreddit": {
+                "banner": "",
+                "icon": "https://styles.redditmedia.com/t5_2szyo/styles/communityIcon_vuzhk1k3hd1c1.png?width=256&height=256&frame=1&auto=webp&crop=256:256,smart&s=26e2a38eaddc51918007fce62b04e10ec701dab9",
+                "id": "t5_2szyo",
+                "name": "Showerthoughts",
+                "nsfw": false,
+                "subscribers": 33980703,
+                "title": "Showerthoughts"
+            },
+            "title": "There is probably at least one white guy, adopted and raised in China, who speaks English with a Chinese accent and strangers just assume he\u2019s a total asshole",
+            "upvoteRatio": 0.938304631332553,
+            "url": "https://www.reddit.com/r/Showerthoughts/comments/c0tucx/there_is_probably_at_least_one_white_guy_adopted/"
+        },
+        {
+            "author": {
+                "icon": "https://styles.redditmedia.com/t5_d4hqa/styles/profileIcon_snoo34d4a89b-ae05-4f9b-8138-e3b5e7a025af-headshot.png?width=256&height=256&frame=1&auto=webp&crop=256:256,smart&s=f4e8c0d3431ab010f3cf798fd1aa52705fd08997",
+                "id": "t2_77p4s",
+                "name": "TripleRangeMerge",
+                "nsfw": false,
+                "url": "https://www.reddit.com/user/TripleRangeMerge"
+            },
+            "comments": 2263,
+            "content": {
+                "image": "",
+                "link": "",
+                "text": "",
+                "video": ""
+            },
+            "contentLanguage": "en",
+            "creationDate": "2018-08-02T15:05:54.163000+0000",
+            "id": "t3_9401u1",
+            "nsfw": false,
+            "score": 123383,
+            "shares": 0,
+            "subreddit": {
+                "banner": "",
+                "icon": "https://styles.redditmedia.com/t5_2szyo/styles/communityIcon_vuzhk1k3hd1c1.png?width=256&height=256&frame=1&auto=webp&crop=256:256,smart&s=26e2a38eaddc51918007fce62b04e10ec701dab9",
+                "id": "t5_2szyo",
+                "name": "Showerthoughts",
+                "nsfw": false,
+                "subscribers": 33980703,
+                "title": "Showerthoughts"
+            },
+            "title": "Apparently, a lemon is not naturally occurring and is a hybrid developed by cross breeding a bitter orange and a citron. Life never gave us lemons; we invented them all by ourselves.",
+            "upvoteRatio": 0.9074664540985784,
+            "url": "https://www.reddit.com/r/Showerthoughts/comments/9401u1/apparently_a_lemon_is_not_naturally_occurring_and/"
+        },
+        {
+            "author": {
+                "icon": "https://styles.redditmedia.com/t5_8dhjar/styles/profileIcon_ehc379e7a53b1.jpg?width=256&height=256&frame=1&auto=webp&crop=256:256,smart&s=2321bf87c3187c77848abd6157ab33a9d64297ff",
+                "id": "t2_ax7vaycz2",
+                "name": "RoyalMailOfficial",
+                "nsfw": false,
+                "url": "https://www.reddit.com/user/RoyalMailOfficial"
+            },
+            "comments": 0,
+            "content": {
+                "image": "",
+                "link": "",
+                "text": "",
+                "video": ""
+            },
+            "contentLanguage": "",
+            "creationDate": "2025-02-05T15:27:21.135000+0000",
+            "id": "t3_1iicj4j",
+            "nsfw": false,
+            "score": 0,
+            "shares": 0,
+            "subreddit": {
+                "banner": "",
+                "icon": "https://styles.redditmedia.com/t5_2szyo/styles/communityIcon_vuzhk1k3hd1c1.png?width=256&height=256&frame=1&auto=webp&crop=256:256,smart&s=26e2a38eaddc51918007fce62b04e10ec701dab9",
+                "id": "t5_2szyo",
+                "name": "Showerthoughts",
+                "nsfw": false,
+                "subscribers": 33980703,
+                "title": "Showerthoughts"
+            },
+            "title": "Fifty years on from AC/DC's explosive High Voltage debut, the legend lives on in our set of Special Stamps and collectibles",
+            "upvoteRatio": 0.25,
+            "url": "https://www.reddit.com/user/RoyalMailOfficial/comments/1iicj4j/fifty_years_on_from_acdcs_explosive_high_voltage/"
+        },
+        {
+            "author": {
+                "icon": "https://preview.redd.it/snoovatar/avatars/nftv2_bmZ0X2VpcDE1NToxMzdfNDY2YTMzMDg4N2JkZjYyZDUzZjk2OGVhODI0NzkzMTUwZjA3NzYyZV83NzQ5Mzg_rare_0625aa61-e5a6-4f22-9fcd-fe2844a8919b-headshot.png?width=256&height=256&crop=smart&auto=webp&s=88ff27eef63aea5d4ce1c26d469708a62ca1d735",
+                "id": "t2_cbp3g",
+                "name": "themadpooper",
+                "nsfw": false,
+                "url": "https://www.reddit.com/user/themadpooper"
+            },
+            "comments": 6058,
+            "content": {
+                "image": "",
+                "link": "",
+                "text": "",
+                "video": ""
+            },
+            "contentLanguage": "en",
+            "creationDate": "2018-01-08T08:40:02.184000+0000",
+            "id": "t3_7ox9b3",
+            "nsfw": false,
+            "score": 122321,
+            "shares": 0,
+            "subreddit": {
+                "banner": "",
+                "icon": "https://styles.redditmedia.com/t5_2szyo/styles/communityIcon_vuzhk1k3hd1c1.png?width=256&height=256&frame=1&auto=webp&crop=256:256,smart&s=26e2a38eaddc51918007fce62b04e10ec701dab9",
+                "id": "t5_2szyo",
+                "name": "Showerthoughts",
+                "nsfw": false,
+                "subscribers": 33980703,
+                "title": "Showerthoughts"
+            },
+            "title": "Being 35 and not wanting to work in the field for which you've prepared is like being half way through an RPG and realizing you've built out your skill tree all wrong and you can't respec and you can't make a new character and there will never be another video game again",
+            "upvoteRatio": 0.89652234916817,
+            "url": "https://www.reddit.com/r/Showerthoughts/comments/7ox9b3/being_35_and_not_wanting_to_work_in_the_field_for/"
+        },
+        {
+            "author": {
+                "icon": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_4.png",
+                "id": "t2_37hnua1w",
+                "name": "TerminalGay",
+                "nsfw": false,
+                "url": "https://www.reddit.com/user/TerminalGay"
+            },
+            "comments": 2603,
+            "content": {
+                "image": "",
+                "link": "",
+                "text": "",
+                "video": ""
+            },
+            "contentLanguage": "en",
+            "creationDate": "2019-02-22T09:53:41.858000+0000",
+            "id": "t3_atfp74",
+            "nsfw": false,
+            "score": 122025,
+            "shares": 0,
+            "subreddit": {
+                "banner": "",
+                "icon": "https://styles.redditmedia.com/t5_2szyo/styles/communityIcon_vuzhk1k3hd1c1.png?width=256&height=256&frame=1&auto=webp&crop=256:256,smart&s=26e2a38eaddc51918007fce62b04e10ec701dab9",
+                "id": "t5_2szyo",
+                "name": "Showerthoughts",
+                "nsfw": false,
+                "subscribers": 33980703,
+                "title": "Showerthoughts"
+            },
+            "title": "It would be cool if after you died you could see the top 5 times you almost died.",
+            "upvoteRatio": 0.9457217563790461,
+            "url": "https://www.reddit.com/r/Showerthoughts/comments/atfp74/it_would_be_cool_if_after_you_died_you_could_see/"
+        },
+        {
+            "author": {
+                "icon": "https://www.redditstatic.com/avatars/defaults/v2/avatar_default_1.png",
+                "id": "t2_vcl5t",
+                "name": "Aristea84",
+                "nsfw": false,
+                "url": "https://www.reddit.com/user/Aristea84"
+            },
+            "comments": 4300,
+            "content": {
+                "image": "",
+                "link": "",
+                "text": "Edit: Apparently, people have a lot of feelings on fidget spinners. Strong feelings.",
+                "video": ""
+            },
+            "contentLanguage": "en",
+            "creationDate": "2017-11-12T21:51:43.956000+0000",
+            "id": "t3_7cif01",
+            "nsfw": false,
+            "score": 121822,
+            "shares": 0,
+            "subreddit": {
+                "banner": "",
+                "icon": "https://styles.redditmedia.com/t5_2szyo/styles/communityIcon_vuzhk1k3hd1c1.png?width=256&height=256&frame=1&auto=webp&crop=256:256,smart&s=26e2a38eaddc51918007fce62b04e10ec701dab9",
+                "id": "t5_2szyo",
+                "name": "Showerthoughts",
+                "nsfw": false,
+                "subscribers": 33980703,
+                "title": "Showerthoughts"
+            },
+            "title": "It kinda makes sense that the target audience for fidget spinners lost interest in them so quickly",
+            "upvoteRatio": 0.9465945740846139,
+            "url": "https://www.reddit.com/r/Showerthoughts/comments/7cif01/it_kinda_makes_sense_that_the_target_audience_for/"
+        },
+        {
+            "author": {
+                "icon": "",
+                "id": "t2_6zpl9",
+                "name": "SilentWalrus92",
+                "nsfw": false,
+                "url": "https://www.reddit.com/user/SilentWalrus92"
+            },
+            "comments": 8597,
+            "content": {
+                "image": "",
+                "link": "",
+                "text": "",
+                "video": ""
+            },
+            "contentLanguage": "en",
+            "creationDate": "2019-01-28T15:34:59.450000+0000",
+            "id": "t3_akoj7e",
+            "nsfw": false,
+            "score": 121563,
+            "shares": 0,
+            "subreddit": {
+                "banner": "",
+                "icon": "https://styles.redditmedia.com/t5_2szyo/styles/communityIcon_vuzhk1k3hd1c1.png?width=256&height=256&frame=1&auto=webp&crop=256:256,smart&s=26e2a38eaddc51918007fce62b04e10ec701dab9",
+                "id": "t5_2szyo",
+                "name": "Showerthoughts",
+                "nsfw": false,
+                "subscribers": 33980703,
+                "title": "Showerthoughts"
+            },
+            "title": "Avatar, the highest grossing film of all time, seems to have made zero impact on culture. No one references the movie and no one really talks about it since it was released 10 years ago.",
+            "upvoteRatio": 0.9155671570953963,
+            "url": "https://www.reddit.com/r/Showerthoughts/comments/akoj7e/avatar_the_highest_grossing_film_of_all_time/"
+        },
+        {
+            "author": {
+                "icon": "https://styles.redditmedia.com/t5_c86hk/styles/profileIcon_p6mpky85mod01.jpg?width=256&height=256&frame=1&auto=webp&crop=256:256,smart&s=ef47e2c36a1d4a095521310ca2a11b3ad659bbbe",
+                "id": "t2_kjv2l",
+                "name": "BillionTonsHyperbole",
+                "nsfw": false,
+                "url": "https://www.reddit.com/user/BillionTonsHyperbole"
+            },
+            "comments": 2385,
+            "content": {
+                "image": "",
+                "link": "",
+                "text": "",
+                "video": ""
+            },
+            "contentLanguage": "en",
+            "creationDate": "2018-08-26T23:27:26.351000+0000",
+            "id": "t3_9ak0d0",
+            "nsfw": false,
+            "score": 120955,
+            "shares": 0,
+            "subreddit": {
+                "banner": "",
+                "icon": "https://styles.redditmedia.com/t5_2szyo/styles/communityIcon_vuzhk1k3hd1c1.png?width=256&height=256&frame=1&auto=webp&crop=256:256,smart&s=26e2a38eaddc51918007fce62b04e10ec701dab9",
+                "id": "t5_2szyo",
+                "name": "Showerthoughts",
+                "nsfw": false,
+                "subscribers": 33980703,
+                "title": "Showerthoughts"
+            },
+            "title": "A guy named \"Weird Al\" has had a 40+ year long career with no allegations of sexual impropriety.",
+            "upvoteRatio": 0.8982959156072491,
+            "url": "https://www.reddit.com/r/Showerthoughts/comments/9ak0d0/a_guy_named_weird_al_has_had_a_40_year_long/"
+        },
+        {
+            "author": {
+                "icon": "",
+                "id": "t2_0",
+                "name": "[deleted]",
+                "nsfw": false,
+                "url": "https://www.reddit.com/user/[deleted]"
+            },
+            "comments": 1714,
+            "content": {
+                "image": "",
+                "link": "",
+                "text": "",
+                "video": ""
+            },
+            "contentLanguage": "en",
+            "creationDate": "2020-02-01T20:28:44.805000+0000",
+            "id": "t3_exc396",
+            "nsfw": false,
+            "score": 120468,
+            "shares": 0,
+            "subreddit": {
+                "banner": "",
+                "icon": "https://styles.redditmedia.com/t5_2szyo/styles/communityIcon_vuzhk1k3hd1c1.png?width=256&height=256&frame=1&auto=webp&crop=256:256,smart&s=26e2a38eaddc51918007fce62b04e10ec701dab9",
+                "id": "t5_2szyo",
+                "name": "Showerthoughts",
+                "nsfw": false,
+                "subscribers": 33980703,
+                "title": "Showerthoughts"
+            },
+            "title": "We all think of Gordon Ramsay as an extremely picky food critic/chef but if your life's work was cooking and you saw a narcissistic restaurant manager breaking health code violations and making horrible food, you'd be pretty angry too.",
+            "upvoteRatio": 0.8635495716034272,
+            "url": "https://www.reddit.com/r/Showerthoughts/comments/exc396/we_all_think_of_gordon_ramsay_as_an_extremely/"
+        }
+    ],
+    "pageInfo": {
+        "endCursor": "dDNfZXhjMzk2",
+        "hasNextPage": true
+    }
+}
